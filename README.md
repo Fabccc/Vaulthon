@@ -27,3 +27,13 @@ wget -O vaulthon.py https://raw.githubusercontent.com/ComminQ/Vaulthon/main/vaul
 touch config.json
 ./vaulthon.py <key>
 ```
+
+# Example
+
+The key to execute this example is "hello", so simply run:
+
+```shell
+git clone https://github.com/ComminQ/Vaulthon.git
+cd Vaulthon
+python vaulthon.py hello
+```
