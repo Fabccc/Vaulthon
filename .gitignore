@@ -1,0 +1,4 @@
+*.pyc
+*.json
+!config.example.json
+!config.schema.json
